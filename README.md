@@ -9,14 +9,14 @@
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo3022020&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gusta-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Gusta-PyCharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Gusta-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Gusta-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Gusta-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Gusta-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Gusta-PyCharm" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Gusta-MySQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gusta-Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Gusta-Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
 </div>
-  <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://wallpapercave.com/wp/wp9109411.png">
-  <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1366x768.jpg">
+  <img align="right" alt="Gusta-pic" height="170" style="border-radius:50px;" src="https://wallpapercave.com/wp/wp9109411.png">
+  <img align="right" alt="Gusta-pic" height="170" style="border-radius:50px;" src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1366x768.jpg">
   
   ##
 
