@@ -1,7 +1,7 @@
 ### Olá eu sou o Gustavo Ferreira Martins
 
 - 🔭 À Procura da Felicidade
-- 🌱 Estou cursando Banco De Dados na faculdade, Python, MySQL e NOSQL
+- 🌱 Cursando Banco De Dados/ Estudando Python, MySQL e NoSQL, Inglês e Francês
  
 <div align="center">
   <a href="https://github.com/Gustavo3022020">
@@ -9,8 +9,13 @@
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo3022020&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gusta-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Gusta-PyCharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Gusta-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gusta-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Gusta-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
 </div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/547010/4dfc6f0b15078eaefc13de52ba1b517e606465e6.jpg">
   
   ##
 
