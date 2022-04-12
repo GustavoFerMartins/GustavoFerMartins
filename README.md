@@ -16,7 +16,6 @@
   <img align="center" alt="Gusta-Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
 </div>
   <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://wallpaperaccess.com/full/1672345.jpg">
-  <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-1366x768.jpg">
   
   ##
 
