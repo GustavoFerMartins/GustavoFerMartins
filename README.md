@@ -3,7 +3,7 @@
 - 🔭 À Procura da Felicidade
 - 🌱 Estou cursando Banco De Dados na faculdade, Python, MySQL e NOSQL
  
-<div align="center">
+<div align="right">
   <a href="https://github.com/Gustavo3022020">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gustavo3022020&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo3022020&layout=compact&langs_count=7&theme=highcontrast"/>
