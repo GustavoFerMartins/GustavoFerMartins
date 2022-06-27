@@ -1,6 +1,6 @@
 ### Olá eu sou o Gustavo Ferreira Martins
 
-- 🔭 Desempregado
+- 🔭 Estudante
 - 🌱 Cursando Banco De Dados/ Estudando Python, MySQL e NoSQL, Inglês e Francês
  
 <div align="center">
