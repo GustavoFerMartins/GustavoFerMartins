@@ -9,11 +9,11 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo3022020&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gusta-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Gusta-PyCharm" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Gusta-MySQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Gusta-Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Gusta-Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Gusta-Python" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Gusta-PyCharm" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Gusta-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Gusta-Linux" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Gusta-Ubuntu" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
 </div>
  
 
