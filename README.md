@@ -15,9 +15,7 @@
   <img align="center" alt="Gusta-Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Gusta-Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
 </div>
-  <img align="right" alt="Gusta-pic" height="150" style="border-radius:50px;" src="https://wallpaperaccess.com/full/1672345.jpg">
-  
-  ##
+ 
 
   <a href = "mailto:gmartins23ustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-martins-6532771a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
