@@ -1,7 +1,7 @@
 ### Olá eu sou o Gustavo Ferreira Martins
 
 - 🔭 Estudante
-- 🌱 Cursando Banco De Dados na Faculdade/ Estudando Python/Java
+- 🌱 Cursando Banco De Dados / Estudando Python / Java
  
 <div align="center">
   <a href="https://github.com/Gustavo3022020">
