@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Ferreira Martins</h1>
 <h3 align="center">A passionate BackEnd developer from Brasil</h3>
 
-<img align="right" alt="Code" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Code" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 
 - 🌱 I’m currently learning **Java, Spring, English and German**
