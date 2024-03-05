@@ -4,7 +4,7 @@
 <img align="right" alt="Code" width="170" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 
-- 🌱 I’m currently learning **Database, English and German**
+- 🌱 I’m currently learning **Database and English**
 
 - 📫 How to reach me **gmartins23ustavo@gmail.com**
 
