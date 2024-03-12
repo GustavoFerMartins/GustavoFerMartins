@@ -21,10 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavofermartins&theme=blue-green"" alt="gustavofermartins" /></p>
 
-
-
- 
-  ![Snake animation](https://github.com/GustavoFerMartins/GustavoFerMartins/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
