@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavofermartins&show_icons=true&locale=en&theme=blue-green"" alt="gustavofermartins" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavofermartins&theme=blue-green"" alt="gustavofermartins" /></p>
+
 
  
 </div>
